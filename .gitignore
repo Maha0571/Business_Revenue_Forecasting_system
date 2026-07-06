@@ -83,3 +83,6 @@ Thumbs.db
 # outputs/*.csv
 # outputs/*.xlsx
 # outputs/*.png
+venv/
+__pycache__/
+*.pkl
